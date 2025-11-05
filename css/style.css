@@ -81,17 +81,26 @@ main{
     background-color: rgb(255, 237, 216);
 }
 .faixa{
-    background-color: rgb(236, 154, 154);
     width: 100vw;
     height: 10vh;
+    padding: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 .div-faixa{
-    background-color: aliceblue;
     height: 20px;
-    width: 100px;
+    width: 10vw;
+    font-size: 17px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+.div-faixa img{
+    height: 30px;
+}
+h1{
+    font-size: 56px;
 }
 
 
