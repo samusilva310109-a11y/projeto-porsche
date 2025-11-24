@@ -3,3 +3,7 @@
 
 ## Descrição
 O projeto-porsche trata-se de uma página HTML e CSS cujo o objetivo é o desenvolvimento de habilidades necesssárias para construção de uma página web 
+
+## Tecnologias utilizadas
+- **HTML5:** para a estruturação da página
+- **CSS3:** para a estilização da página
